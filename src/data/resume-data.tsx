@@ -134,17 +134,17 @@ export const RESUME_DATA = {
         href: "https://medium.com/fourthline-tech/how-to-visualize-tensorflow-metrics-in-kibana-761268353ca3",
       },
     },
-    // {
-    //   title: "Monito",
-    //   techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
-    //   description:
-    //     "Browser extension that records everything happening in a web application",
-    //   logo: MonitoLogo,
-    //   link: {
-    //     label: "monito.dev",
-    //     href: "https://monito.dev/",
-    //   },
-    // },
+    {
+      title: "IMF Data Insights",
+      techStack: ["Side Project", "Javascript", "Next.js"],
+      description:
+        "Economics data analytics tool built using the IMF data API",
+      logo: MonitoLogo,
+      link: {
+        label: "imfdatainsights.com",
+        href: "https://imfdatainsights.com/",
+      },
+    },
     // {
     //   title: "Jarocki.me",
     //   techStack: ["Side Project", "Next.js", "MDX"],
