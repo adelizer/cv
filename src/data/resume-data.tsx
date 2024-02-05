@@ -60,7 +60,7 @@ export const RESUME_DATA = {
     },
     {
       school: "German University in Cairo",
-      degree: "BSc in Mechatronics - 60% Scholarship",
+      degree: "BSc in Mechatronics - Partial Scholarship",
       start: "2009",
       end: "2014",
     },
